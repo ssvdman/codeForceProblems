@@ -6,17 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 8 |
+| 11 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (3)
+- [brute force](#brute-force) (4)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (4)
+- [implementation](#implementation) (5)
 - [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [strings](#strings) (2)
@@ -30,6 +30,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/ssvdman/codeForceProblems/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 22A | [Second Order Statistics](https://codeforces.com/contest/22/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ssvdman/codeForceProblems/blob/HEAD/22/A%20-%20Second%20Order%20Statistics/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/ssvdman/codeForceProblems/blob/HEAD/231/A%20-%20Team/solution.java) |
+| 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ssvdman/codeForceProblems/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
 
 ### expression parsing
 
@@ -57,6 +58,7 @@
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [GNU C11](https://github.com/ssvdman/codeForceProblems/blob/HEAD/486/A%20-%20Calculating%20Function/solution.c) |
 | 1177A | [Digits Sequence (Easy Edition)](https://codeforces.com/contest/1177/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ssvdman/codeForceProblems/blob/HEAD/1177/A%20-%20Digits%20Sequence%20(Easy%20Edition)/solution.cpp) |
 | 1303A | [Erasing Zeroes](https://codeforces.com/contest/1303/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ssvdman/codeForceProblems/blob/HEAD/1303/A%20-%20Erasing%20Zeroes/solution.cpp) |
+| 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ssvdman/codeForceProblems/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
 
 ### math
 
