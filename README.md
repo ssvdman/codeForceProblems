@@ -6,16 +6,30 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 10 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (3)
 - [expression parsing](#expression-parsing) (1)
-- [implementation](#implementation) (1)
+- [games](#games) (1)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (4)
+- [math](#math) (4)
+- [number theory](#number-theory) (1)
+- [strings](#strings) (2)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/ssvdman/codeForceProblems/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 22A | [Second Order Statistics](https://codeforces.com/contest/22/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ssvdman/codeForceProblems/blob/HEAD/22/A%20-%20Second%20Order%20Statistics/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/ssvdman/codeForceProblems/blob/HEAD/231/A%20-%20Team/solution.java) |
 
 ### expression parsing
 
@@ -23,11 +37,48 @@
 |---|---------|------------|----------|
 | 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [Java 21](https://github.com/ssvdman/codeForceProblems/blob/HEAD/32/B%20-%20Borze/solution.java) |
 
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [GNU C11](https://github.com/ssvdman/codeForceProblems/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.c) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/ssvdman/codeForceProblems/blob/HEAD/231/A%20-%20Team/solution.java) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [Java 21](https://github.com/ssvdman/codeForceProblems/blob/HEAD/32/B%20-%20Borze/solution.java) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [GNU C11](https://github.com/ssvdman/codeForceProblems/blob/HEAD/486/A%20-%20Calculating%20Function/solution.c) |
+| 1177A | [Digits Sequence (Easy Edition)](https://codeforces.com/contest/1177/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/ssvdman/codeForceProblems/blob/HEAD/1177/A%20-%20Digits%20Sequence%20(Easy%20Edition)/solution.cpp) |
+| 1303A | [Erasing Zeroes](https://codeforces.com/contest/1303/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ssvdman/codeForceProblems/blob/HEAD/1303/A%20-%20Erasing%20Zeroes/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/ssvdman/codeForceProblems/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [GNU C11](https://github.com/ssvdman/codeForceProblems/blob/HEAD/486/A%20-%20Calculating%20Function/solution.c) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ssvdman/codeForceProblems/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [GNU C11](https://github.com/ssvdman/codeForceProblems/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.c) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [GNU C11](https://github.com/ssvdman/codeForceProblems/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.c) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/ssvdman/codeForceProblems/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
+| 1303A | [Erasing Zeroes](https://codeforces.com/contest/1303/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ssvdman/codeForceProblems/blob/HEAD/1303/A%20-%20Erasing%20Zeroes/solution.cpp) |
 
 ---
 
