@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 8 |
+| 12 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (1)
@@ -29,6 +29,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/ssvdman/codeForceProblems/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 22A | [Second Order Statistics](https://codeforces.com/contest/22/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ssvdman/codeForceProblems/blob/HEAD/22/A%20-%20Second%20Order%20Statistics/solution.cpp) |
+| 80A | [Panoramix's Prediction](https://codeforces.com/contest/80/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ssvdman/codeForceProblems/blob/HEAD/80/A%20-%20Panoramix's%20Prediction/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/ssvdman/codeForceProblems/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/ssvdman/codeForceProblems/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
 
